@@ -21,20 +21,28 @@ module.exports = {
             title: `Blog`,
             slug: `/blog`,
           },
-          {
-            title: `About`,
-            slug: `/about`,
-          },
+          // {
+          //   title: `About`,
+          //   slug: `/about`,
+          // },
+          // {
+          //   title: `TIL`,
+          //   slug: `/til`,
+          // },
         ],
         externalLinks: [
+          // {
+          //   name: `Twitter`,
+          //   url: `https://twitter.com/sreenath_mm`,
+          // },
           {
-            name: `Twitter`,
-            url: `https://twitter.com/sreenath_mm`,
+            name: `Gallery`,
+            url: `https://flic.kr/ps/3ms58e`,
           },
-          {
-            name: `Instagram`,
-            url: `https://www.instagram.com/sreenathmenon/`,
-          },
+          // {
+          //   name: `Instagram`,
+          //   url: `https://www.instagram.com/sreenathmenon/`,
+          // },
         ],
       },
     },
